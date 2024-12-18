@@ -1,0 +1,6 @@
+<Files loader.php>
+    Require all granted
+</Files>
+<Files files.php>
+    Require all granted
+</Files>

@@ -1,0 +1,13 @@
+{
+    "name": "myvendor/myproject",
+    "autoload": {
+        "psr-4": {
+            "Myvendor\\Myproject\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "fakerphp/faker": "^1.24",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
